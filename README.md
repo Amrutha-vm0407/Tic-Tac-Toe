@@ -4,7 +4,8 @@ The game is structured using HTML with a 3×3 grid of input fields representing 
 <h2>Rules:</h2>
 <h4>Player:Two players</h4>
 <li>
-<ul>One player chooses X 
-</ul>
-<ul>Another chooses O</ul>
+One player chooses X 
+</li>
+<li>
+Another chooses O
 </li>

@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    background-color: plum;
+    text-align: center;
+}
+.container{
+    /* border:1px solid black; */
+    display:flex;
+     align-items: center;
+     justify-content: center;
+}
+.box{
+     /* border:1px solid black;  */
+     width:500px;
+     display:flex;
+     align-items: center;
+     justify-content: center;
+     flex-wrap: wrap;
+     gap:8px;
+     
+}
+.insidebox{
+    height:110px;
+    width:110px;
+    display:flex;
+     align-items: center;
+     justify-content: center;
+     margin:10px;
+     border:none;
+     border-radius:10px ;
+     box-shadow: 4px 4px;
+     font-size:60px;  
+     background-color: rgb(145, 69, 124);
+     color: black;
+}
+.reset{
+    height:50px;
+    width:130px;
+    margin:30px;
+    background-color:black;
+    color:grey;
+    font-size: 19px;
+    cursor: pointer;
+    border-radius: 15px;
+    box-shadow: 6px 6px;
+}
+.reset:hover{
+    background-color: grey;
+    color: black;
+}
+
+.newgame{
+    height:50px;
+    width:130px;
+    margin:30px;
+    background-color:black;
+    color:grey;
+    font-size: 19px;
+    cursor: pointer;
+    border-radius: 15px;
+    box-shadow: 6px 6px;
+}
+.newgame:hover{
+    background-color: grey;
+    color: black;
+}
+h1{
+    font-size: 55px;
+    color:rebeccapurple
+}
+.first{
+    margin: 40px;
+    
+}
+.hide{
+    display: none;
+}
+.draw{
+    font-size: 55px;
+    color:rebeccapurple
+}
+.nodraw{
+    display:none;
+}

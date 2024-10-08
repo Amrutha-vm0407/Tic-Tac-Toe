@@ -1,5 +1,5 @@
 <h1>Tic-Tac-Toe</h1>
-<h3>Demonstration of the website: https://venerable-tulumba-1a1260.netlify.app/</h3>
+<h3>Live Demo: https://venerable-tulumba-1a1260.netlify.app/</h3>
 <h1>Rules of the game</h1>
 <h3>1. Game Setup:</h3>
 <li>The game is played on a 3x3 grid (9 squares in total).</li>

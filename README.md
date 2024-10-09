@@ -20,14 +20,12 @@
 <li>Players can only place their mark in an empty square. Once placed, the mark cannot be moved.</li>
 <h3>6. End of Game:</h3>
 <p>The game ends as soon as a player wins or there are no more empty squares left.</p>
-<img src="https://github.com/Amrutha-vm0407/Tic-Tac-Toe/blob/main/Screenshot%202024-10-03%20225308.png">
+<img src="Screenshot 2024-10-03 225308.png">
 <h2>Shows the Tic Tac Toe gaming interface</h2>
-<img src="https://github.com/Amrutha-vm0407/Tic-Tac-Toe/blob/main/Screenshot%202024-10-03%20225331.png">
+<img src="Screenshot 2024-10-03 225331.png">
 <h2>Shows the Tic Tac Toe gaming interface if the player-X wins similarly for same the player-O</h2>
-<img src="https://github.com/Amrutha-vm0407/Tic-Tac-Toe/blob/main/Screenshot%202024-10-03%20225331.png">
-<h2>Shows the Tic Tac Toe gaming interface if the player-X wins similarly for same the player-O</h2>
-<img src="https://github.com/Amrutha-vm0407/Tic-Tac-Toe/blob/main/Screenshot%202024-10-03%20225501.png">
-<h2>Shows the Tic Tac Toe gaming interface if both of the player won't make the match</h2>
+<img src="Screenshot 2024-10-03 225501.png">
+<h2>Shows the Tic Tac Toe gaming interface if both of the player won't make the match(Draw match)</h2>
 
 <h1>Technology used</h1>
 <p>HTML5: For structuring the game interface.</p>
